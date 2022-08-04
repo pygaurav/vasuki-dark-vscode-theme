@@ -6,7 +6,7 @@ A dark theme for VS Code which add sweet experience and feel into your coding.
 
 Press `ctrl/command + shift + p` to launch the command palette, then run:
 ```
-ext install gaurav bhardwaj.vasuki-dark-theme
+ext install GauravBhardwaj.vasuki-dark-theme
 ```
 
 ## Screenshots
