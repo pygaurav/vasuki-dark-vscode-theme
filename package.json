@@ -1,0 +1,35 @@
+{
+    "name": "vasuki-dark-theme",
+    "displayName": "Vasuki Dark Theme",
+    "description": "Vasuki Dark Theme - A dark theme for VS Code which add amazing experience and feel into your coding.",
+    "version": "1.1.0",
+    "publisher": "Gaurav Bhardwaj",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vasuki Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vasuki-dark-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "vasuki",
+        "vscode",
+        "theme",
+        "dark",
+        "night",
+        "monokai",
+        "darker",
+        "sweet"
+    ],
+    "author": "Gaurav Bhardwaj <ittwist.com> (https://ittwist.com)",
+    "license": "MIT"
+}
