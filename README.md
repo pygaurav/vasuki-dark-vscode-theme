@@ -1,4 +1,4 @@
-# [Vasuki Dark Theme]()
+# [Vasuki Dark Theme](https://github.com/pygaurav/vasuki-dark-vscode-theme)
 
 A dark theme for VS Code which add sweet experience and feel into your coding.
 
