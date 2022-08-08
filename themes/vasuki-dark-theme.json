@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#0C0E14",
-		"input.background": "#0C0E14",
+		"input.background": "#383e4a",
 		"dropdown.background": "#0C0E14",
 		"dropdown.border": "#0C0E14",
 		"list.focusBackground": "#383e4a",
@@ -62,7 +62,8 @@
 		"notification.background": "#0C0E14",
 		"statusBar.debuggingBackground": "#020202",
 		"menu.selectionBackground": "#141721",
-		"menu.selectionForeground": "#d7dae0"
+		"menu.selectionForeground": "#d7dae0",
+		"checkbox.background": "#383e4a"
 	},
 	"tokenColors": [
 		{
