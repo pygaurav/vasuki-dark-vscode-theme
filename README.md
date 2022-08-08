@@ -12,6 +12,7 @@ ext install Ittwist.vasuki-dark-theme
 ## Screenshots
 
 ![Screenshot 01](images/screenshots/javascript_code.png "Screenshot #01")
+
 ![Screenshot 02](images/screenshots/html_code.png "Screenshot #02")
 
 
