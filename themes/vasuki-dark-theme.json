@@ -22,7 +22,7 @@
 		"editor.selectionBackground": "#3e4451",
 		"editor.findMatchHighlightBackground": "#314365",
 		"editorHoverWidget.background": "#0C0E14",
-		"editorHoverWidget.border": "#0C0E14",
+		"editorHoverWidget.border": "#202538",
 		"diffEditor.insertedTextBackground": "#00809b33",
 		"editor.lineHighlightBackground": "#0C0E14",
 		"editorCursor.foreground": "#f8f8f0",
