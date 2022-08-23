@@ -53,7 +53,7 @@
 		"activityBarBadge.background": "#528bff",
 		"activityBarBadge.foreground": "#f8fafd",
 		"sideBar.background": "#0C0E14",
-		"sideBar.border": "#0C0E14",
+		"sideBar.border": "#35363A",
 		"sideBarSectionHeader.background": "#0C0E14",
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.inactiveForeground": "#6b717d",
@@ -63,7 +63,8 @@
 		"statusBar.debuggingBackground": "#020202",
 		"menu.selectionBackground": "#141721",
 		"menu.selectionForeground": "#d7dae0",
-		"checkbox.background": "#383e4a"
+		"checkbox.background": "#383e4a",
+		"panelSectionHeader.background": "#0C0E14"
 	},
 	"tokenColors": [
 		{
