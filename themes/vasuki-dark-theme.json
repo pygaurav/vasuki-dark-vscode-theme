@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#0C0E14",
-    "input.background": "#383e4a",
+    "input.background": "#171a26",
     "dropdown.background": "#0C0E14",
     "dropdown.border": "#293045",
     "list.focusBackground": "#383e4a",
