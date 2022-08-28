@@ -2,7 +2,7 @@
     "name": "vasuki-dark-theme",
     "displayName": "Vasuki Dark Theme",
     "description": "Vasuki Dark Theme - A dark theme for VS Code which add amazing experience and feel into your coding.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "Ittwist",
     "engines": {
         "vscode": "^1.13.0"
