@@ -70,7 +70,8 @@
     "sideBarSectionHeader.border": "#293045",
     "panel.border": "#293045",
     "statusBar.focusBorder": "#0C0E12",
-    "input.border": "#293045"
+    "input.border": "#293045",
+    "sash.hoverBorder": "#293045"
   },
   "tokenColors": [
     {
